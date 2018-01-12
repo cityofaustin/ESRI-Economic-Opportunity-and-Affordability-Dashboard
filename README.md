@@ -4,5 +4,5 @@ ESRI and the City of Austin are collaborating to create an Executive Dashboard a
 
 
 ### Links to Datasets
-Commercial and Residential Construction Permits - https://data.austintexas.gov/Building-and-Development/Issued-Construction-Permits/3syk-w9eu/data
-Living Wage - http://livingwage.mit.edu/
+- [Commercial and Residential Construction Permits] (https://data.austintexas.gov/Building-and-Development/Issued-Construction-Permits/3syk-w9eu/data)
+- [Living Wage] (http://livingwage.mit.edu/)
